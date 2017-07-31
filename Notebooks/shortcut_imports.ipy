@@ -1,0 +1,16 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import collections
+import datetime as dt
+import random
+from scipy import stats, fftpack, signal, linalg, cluster, interpolate
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+import sklearn
+from sklearn import metrics, model_selection, datasets
+get_ipython().magic('matplotlib inline')
+# get_ipython().magic("config InlineBackend.figure_formats=['svg']")
+from IPython.display import set_matplotlib_formats
+set_matplotlib_formats('retina')
