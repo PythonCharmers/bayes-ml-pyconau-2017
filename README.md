@@ -1,11 +1,6 @@
 # Tutorial materials: Bayesian inference and machine learning, PyCon AU 2017, Ed Schofield
 
-## Copyright
-Copyright (c) 2017 Python Charmers Pty Ltd, Australia
-
-Released under the Creative Commons CC-NC-ND license: https://creativecommons.org/licenses/by-nc-nd/3.0/au/
-
-## Installation requirements
+## Installation
 See the file `conda_requirement.txt`. To create a new environment, type:
 ```
 $ conda create -n bayesml --file conda_requirements.txt
@@ -24,3 +19,10 @@ scikit-learn
 tensorflow
 edwardlib
 maxentropy (`pip install git+https://github.com/PythonCharmers/maxentropy.git`)
+
+## License
+Copyright (c) 2017 Python Charmers Pty Ltd, Australia
+
+Released under the Creative Commons CC-NC-ND license: https://creativecommons.org/licenses/by-nc-nd/3.0/au/
+
+
