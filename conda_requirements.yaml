@@ -1,4 +1,3 @@
-name: bayesml
 channels:
 - damianavila82
 - defaults
@@ -113,5 +112,4 @@ dependencies:
   - maxentropy==0.2.3
   - prompt-toolkit==1.0.14
   - tables==3.3.0
-prefix: /Users/schofield/anaconda/envs/bayesml
 
