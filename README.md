@@ -9,20 +9,21 @@ If you can't use `conda`, here is the initial list of packages we will use:
 
 python=3.6
 scipy
-jupyter notebook
+jupyter-notebook
 pandas
 pytables
 matplotlib
 seaborn
+maxentropy
 pymc3
 scikit-learn
 tensorflow
 edwardlib
-maxentropy (`pip install git+https://github.com/PythonCharmers/maxentropy.git`)
+pystan
 
 ## License
-Copyright (c) 2017 Python Charmers Pty Ltd, Australia
+Copyright (c) 2017 Python Charmers Pty Ltd, Australia.
 
-Released under the Creative Commons CC-NC-ND license: https://creativecommons.org/licenses/by-nc-nd/3.0/au/
+These training materials are released for the PyCon AU 2017 tutorial under the Creative Commons CC-NC-ND license: https://creativecommons.org/licenses/by-nc-nd/3.0/au/
 
 
