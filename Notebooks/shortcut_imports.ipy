@@ -6,8 +6,8 @@ import collections
 import datetime as dt
 import random
 from scipy import stats, fftpack, signal, linalg, cluster, interpolate
-import statsmodels.api as sm
-import statsmodels.formula.api as smf
+# import statsmodels.api as sm
+# import statsmodels.formula.api as smf
 import sklearn
 from sklearn import metrics, model_selection, datasets
 get_ipython().magic('matplotlib inline')
