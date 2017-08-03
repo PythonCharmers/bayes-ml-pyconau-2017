@@ -3,7 +3,7 @@
 ## Installation
 See the file `conda_requirement.txt`. To create a new environment, type:
 ```
-$ conda create -n bayesml --file conda_requirements.txt
+$ conda create -n bayesml --file conda_requirements.yaml
 ```
 If this doesn't work for you, try this:
 
