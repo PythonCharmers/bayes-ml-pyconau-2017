@@ -7,19 +7,19 @@ $ conda create -n bayesml --file conda_requirements.txt
 ```
 If you can't use `conda`, here is the initial list of packages we will use:
 
-python=3.6
-scipy
-jupyter-notebook
-pandas
-pytables
-matplotlib
-seaborn
-maxentropy
-pymc3
-scikit-learn
-tensorflow
-edwardlib
-pystan
+- python=3.6
+- scipy
+- jupyter-notebook
+- pandas
+- pytables
+- matplotlib
+- seaborn
+- maxentropy
+- pymc3
+- scikit-learn
+- tensorflow
+- edwardlib
+- pystan
 
 ## License
 Copyright (c) 2017 Python Charmers Pty Ltd, Australia.
